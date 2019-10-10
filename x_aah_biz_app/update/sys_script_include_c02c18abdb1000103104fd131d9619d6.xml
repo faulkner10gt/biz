@@ -10,7 +10,8 @@
         <script><![CDATA[var main = Class.create();
 main.prototype = {
     initialize: function() {
-		//test
+		//test 33
+		//testing
     },
 
     type: 'main'
@@ -19,13 +20,13 @@ main.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-10 20:16:07</sys_created_on>
         <sys_id>c02c18abdb1000103104fd131d9619d6</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>main</sys_name>
         <sys_package display_value="biz app" source="x_aah_biz_app">97cb5c6bdb1000103104fd131d9619ae</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="biz app">97cb5c6bdb1000103104fd131d9619ae</sys_scope>
         <sys_update_name>sys_script_include_c02c18abdb1000103104fd131d9619d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-10 20:22:10</sys_updated_on>
+        <sys_updated_on>2019-10-10 20:23:02</sys_updated_on>
     </sys_script_include>
 </record_update>
